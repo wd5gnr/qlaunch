@@ -6,7 +6,7 @@ Purpose: Provide an easy way to make a launch panel that is easily configurable 
 
 Platform: Linux
 
-License: GPL
+License: GPL2
 
 Usage:
 To use qlaunch, you need at least one configuration file. The format of the configuration file is similar to a common INI file.

@@ -1,0 +1,16 @@
+/* default CSS file */
+
+
+/* Example:
+QPushButton {
+  border-width: 1px;
+  border-style: solid;
+  border-color: red;
+  }
+
+*/
+
+QPushButton#MenuButton {
+    font: 'Times New Roman'; font-size: 24pt;
+    width: 250px; height: 100px; icon-size: 55px;
+}

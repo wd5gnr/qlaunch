@@ -107,12 +107,12 @@ QString expando(const QString cmd)
                     if (n!=-1)
                     {
                         deftext=prompt.mid(n+1);
-                        prompt=prompt.mid(0,n-1);
+                        prompt=prompt.mid(0,n);
                         n=deftext.indexOf(':');
                         if (n!=-1)
                         {
                             title=deftext.mid(n+1);
-                            deftext=deftext.mid(0,n-1);
+                            deftext=deftext.mid(0,n);
                         }
 
                     }
